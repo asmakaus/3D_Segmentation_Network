@@ -1,1 +1,4 @@
 # 3D_Segmentation_Networks
+
+
+In this work, we present a novel deep learning architecture for the segmentation of left atrium from MRI volume which incorporates the residual learning based encoder-decoder network. We introduce a loss function and parameter adjustments to deal with the issue of class imbalance and unavailability of large medical imaging dataset. To facilitate the high quality segmentation, we present a three-dimensional multi-scale residual learning based architecture that maintains coarse and fine level features throughout the network. A considerable improvement can be acheived in segmentation performance with fewer parameters compared to the state-of-the-art approaches, thus potentially supporting cardiac diagnosis and surgery without adding any extensive pre-processing of input volumes or any post-processing on the base network's output.
